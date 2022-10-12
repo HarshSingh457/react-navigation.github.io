@@ -16,7 +16,7 @@ Each `screen` component in your app is provided with the `route` prop automatica
 function ProfileScreen({ route }) {
   return (
     <View>
-      <Text>This is the profile screen of the app</Text>
+      <Text>This is the profile screen of the myapp</Text>
       <Text>{route.name}</Text>
     </View>
   );
